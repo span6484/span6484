@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Master of IT in UNSW
+- 👯 I’m looking for a internship of Java Back End Developer
+
+
+![image](https://user-images.githubusercontent.com/37071362/141414581-ca274692-35e6-4a11-afef-63c62c00ecb3.png)
